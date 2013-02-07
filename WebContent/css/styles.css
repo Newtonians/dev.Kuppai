@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+.loginfrm{
+	border:1px solid green;
+	margin:10% auto;
+	width:400px;
+	padding:10px;
+	width:250px;	
+}
+.home_outer{
+	border:1px solid red;
+	margin:0% auto;
+	width:900px;
+	height:700px;
+}
+.home_leftpanel{
+	float:left;
+	width:20%;
+	height:100%;
+	padding:5px;
+}
+.home_rightpanel{
+	border-left:1px dashed black;
+	float:left;
+	width:78%;
+	height:100%;
+}
+.hright_outer{
+	border:1px solid green;
+	margin:5% auto;
+	height:90%;
+	width:85%;
+}
+.product_outer{
+	border:1px solid blue;
+	margin:8% auto;
+	width:70%;
+	padding:5px;
+}
+	
